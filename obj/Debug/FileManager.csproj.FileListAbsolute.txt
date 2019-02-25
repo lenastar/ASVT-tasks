@@ -1,0 +1,7 @@
+C:\Users\Елена\source\repos\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Елена\source\repos\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Елена\source\repos\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Елена\source\repos\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Елена\source\repos\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\Елена\source\repos\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Елена\source\repos\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
